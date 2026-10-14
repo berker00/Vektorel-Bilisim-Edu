@@ -1,0 +1,15 @@
+/Users/atlasyazilim/Desktop/edu/12-10-26/ortazorlukhomework/ortazorlukhomework/bin/Debug/net10.0/ortazorlukhomework
+/Users/atlasyazilim/Desktop/edu/12-10-26/ortazorlukhomework/ortazorlukhomework/bin/Debug/net10.0/ortazorlukhomework.deps.json
+/Users/atlasyazilim/Desktop/edu/12-10-26/ortazorlukhomework/ortazorlukhomework/bin/Debug/net10.0/ortazorlukhomework.runtimeconfig.json
+/Users/atlasyazilim/Desktop/edu/12-10-26/ortazorlukhomework/ortazorlukhomework/bin/Debug/net10.0/ortazorlukhomework.dll
+/Users/atlasyazilim/Desktop/edu/12-10-26/ortazorlukhomework/ortazorlukhomework/bin/Debug/net10.0/ortazorlukhomework.pdb
+/Users/atlasyazilim/Desktop/edu/12-10-26/ortazorlukhomework/ortazorlukhomework/obj/Debug/net10.0/ortazorlukhomework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/atlasyazilim/Desktop/edu/12-10-26/ortazorlukhomework/ortazorlukhomework/obj/Debug/net10.0/ortazorlukhomework.AssemblyInfoInputs.cache
+/Users/atlasyazilim/Desktop/edu/12-10-26/ortazorlukhomework/ortazorlukhomework/obj/Debug/net10.0/ortazorlukhomework.AssemblyInfo.cs
+/Users/atlasyazilim/Desktop/edu/12-10-26/ortazorlukhomework/ortazorlukhomework/obj/Debug/net10.0/ortazorlukhomework.csproj.CoreCompileInputs.cache
+/Users/atlasyazilim/Desktop/edu/12-10-26/ortazorlukhomework/ortazorlukhomework/obj/Debug/net10.0/ortazorlukhomework.sourcelink.json
+/Users/atlasyazilim/Desktop/edu/12-10-26/ortazorlukhomework/ortazorlukhomework/obj/Debug/net10.0/ortazorlukhomework.dll
+/Users/atlasyazilim/Desktop/edu/12-10-26/ortazorlukhomework/ortazorlukhomework/obj/Debug/net10.0/refint/ortazorlukhomework.dll
+/Users/atlasyazilim/Desktop/edu/12-10-26/ortazorlukhomework/ortazorlukhomework/obj/Debug/net10.0/ortazorlukhomework.pdb
+/Users/atlasyazilim/Desktop/edu/12-10-26/ortazorlukhomework/ortazorlukhomework/obj/Debug/net10.0/ortazorlukhomework.genruntimeconfig.cache
+/Users/atlasyazilim/Desktop/edu/12-10-26/ortazorlukhomework/ortazorlukhomework/obj/Debug/net10.0/ref/ortazorlukhomework.dll
