@@ -1,0 +1,15 @@
+/Users/atlasyazilim/Desktop/edu/19-10-26/19-10-26/19-10-26/bin/Debug/net10.0/19-10-26
+/Users/atlasyazilim/Desktop/edu/19-10-26/19-10-26/19-10-26/bin/Debug/net10.0/19-10-26.deps.json
+/Users/atlasyazilim/Desktop/edu/19-10-26/19-10-26/19-10-26/bin/Debug/net10.0/19-10-26.runtimeconfig.json
+/Users/atlasyazilim/Desktop/edu/19-10-26/19-10-26/19-10-26/bin/Debug/net10.0/19-10-26.dll
+/Users/atlasyazilim/Desktop/edu/19-10-26/19-10-26/19-10-26/bin/Debug/net10.0/19-10-26.pdb
+/Users/atlasyazilim/Desktop/edu/19-10-26/19-10-26/19-10-26/obj/Debug/net10.0/19-10-26.GeneratedMSBuildEditorConfig.editorconfig
+/Users/atlasyazilim/Desktop/edu/19-10-26/19-10-26/19-10-26/obj/Debug/net10.0/19-10-26.AssemblyInfoInputs.cache
+/Users/atlasyazilim/Desktop/edu/19-10-26/19-10-26/19-10-26/obj/Debug/net10.0/19-10-26.AssemblyInfo.cs
+/Users/atlasyazilim/Desktop/edu/19-10-26/19-10-26/19-10-26/obj/Debug/net10.0/19-10-26.csproj.CoreCompileInputs.cache
+/Users/atlasyazilim/Desktop/edu/19-10-26/19-10-26/19-10-26/obj/Debug/net10.0/19-10-26.sourcelink.json
+/Users/atlasyazilim/Desktop/edu/19-10-26/19-10-26/19-10-26/obj/Debug/net10.0/19-10-26.dll
+/Users/atlasyazilim/Desktop/edu/19-10-26/19-10-26/19-10-26/obj/Debug/net10.0/refint/19-10-26.dll
+/Users/atlasyazilim/Desktop/edu/19-10-26/19-10-26/19-10-26/obj/Debug/net10.0/19-10-26.pdb
+/Users/atlasyazilim/Desktop/edu/19-10-26/19-10-26/19-10-26/obj/Debug/net10.0/19-10-26.genruntimeconfig.cache
+/Users/atlasyazilim/Desktop/edu/19-10-26/19-10-26/19-10-26/obj/Debug/net10.0/ref/19-10-26.dll
