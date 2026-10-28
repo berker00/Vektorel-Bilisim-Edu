@@ -1,0 +1,15 @@
+/Users/atlasyazilim/Desktop/edu/23-10-26/homework/homework/bin/Debug/net10.0/homework
+/Users/atlasyazilim/Desktop/edu/23-10-26/homework/homework/bin/Debug/net10.0/homework.deps.json
+/Users/atlasyazilim/Desktop/edu/23-10-26/homework/homework/bin/Debug/net10.0/homework.runtimeconfig.json
+/Users/atlasyazilim/Desktop/edu/23-10-26/homework/homework/bin/Debug/net10.0/homework.dll
+/Users/atlasyazilim/Desktop/edu/23-10-26/homework/homework/bin/Debug/net10.0/homework.pdb
+/Users/atlasyazilim/Desktop/edu/23-10-26/homework/homework/obj/Debug/net10.0/homework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/atlasyazilim/Desktop/edu/23-10-26/homework/homework/obj/Debug/net10.0/homework.AssemblyInfoInputs.cache
+/Users/atlasyazilim/Desktop/edu/23-10-26/homework/homework/obj/Debug/net10.0/homework.AssemblyInfo.cs
+/Users/atlasyazilim/Desktop/edu/23-10-26/homework/homework/obj/Debug/net10.0/homework.csproj.CoreCompileInputs.cache
+/Users/atlasyazilim/Desktop/edu/23-10-26/homework/homework/obj/Debug/net10.0/homework.sourcelink.json
+/Users/atlasyazilim/Desktop/edu/23-10-26/homework/homework/obj/Debug/net10.0/homework.dll
+/Users/atlasyazilim/Desktop/edu/23-10-26/homework/homework/obj/Debug/net10.0/refint/homework.dll
+/Users/atlasyazilim/Desktop/edu/23-10-26/homework/homework/obj/Debug/net10.0/homework.pdb
+/Users/atlasyazilim/Desktop/edu/23-10-26/homework/homework/obj/Debug/net10.0/homework.genruntimeconfig.cache
+/Users/atlasyazilim/Desktop/edu/23-10-26/homework/homework/obj/Debug/net10.0/ref/homework.dll
